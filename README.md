@@ -18,7 +18,7 @@ Instead of "doing the books," I performed a **Revenue Visibility Diagnostic**:
 
 ## Key Deliverables
 * **[Final Case Study PDF](./Final_Draft-A&M_Case_Study.pdf):** A comprehensive diagnostic brief detailing the "Structural Leaks" and the path to bankability.
-* **Stakeholder Presentation:** [LINK TO YOUR VIDEO HERE] - A video walkthrough presenting these high-stakes findings to the owner.
+* **Stakeholder Presentation:** https://drive.google.com/file/d/1tUm41YtR7kIxJGZdGO7_3XjmTv4GLTiT/view?usp=drive_link - A video walkthrough presenting these high-stakes findings to the owner.
 
 ## Outcomes
 * **Bankability:** Transformed the company from "Relationship-Driven" to a "Defensible Asset" ready for formal financing.
