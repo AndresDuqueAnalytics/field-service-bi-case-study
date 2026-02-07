@@ -1,0 +1,216 @@
+Employee,Date,Day,Start,End,Hours,Job / Location,Pay / Extra
+Pedro,10/1/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/1/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/1/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/2/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/2/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/2/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Ernesto,10/3/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Fat Village,$200
+Osniel,10/3/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Fat Village,$150
+Pedro,10/3/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/3/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/3/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Ernesto,10/6/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Fat Village,$200
+Osniel,10/6/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Fat Village,$150
+Ismael,10/6/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/6/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Ernesto,10/7/25,Tuesday,9:00:00 a.m.,3:00:00 p.m.,6,Carlos Paesano,$200
+Osniel,10/7/25,Tuesday,9:00:00 a.m.,3:00:00 p.m.,6,Carlos Paesano,$150
+Ismael,10/7/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/7/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/8/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/8/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/8/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Ernesto,10/8/25,Wenesday,8:30:00 a.m.,3:30:00 p.m.,7,Water test,$200
+Osniel,10/8/25,Wenesday,8:30:00 a.m.,3:30:00 p.m.,7,Water test,$150
+Jhony,10/9/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/9/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/9/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Ernesto,10/9/25,Thursday,8:30:00 a.m.,3:30:00 p.m.,7,Servicio Jaime,$200
+Jhony,10/10/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/10/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/10/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Ernesto,10/10/25,Friday,8:30:00 a.m.,3:30:00 p.m.,7,Belmont,$200
+Osniel,10/10/25,Friday,8:30:00 a.m.,3:30:00 p.m.,7,Belmont,$150
+Ismael,10/13/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$170
+Pedro,10/13/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$150
+Ernesto,10/13/25,Monday,8:30:00 a.m.,3:30:00 p.m.,7,Belmont,$200
+Osniel,10/13/25,Monday,8:30:00 a.m.,3:30:00 p.m.,7,Belmont,$150
+Ismael,10/14/25,Tuesday,9:00:00 a.m.,3:30:00 p.m.,6.5,Belmont,$170
+Pedro,10/14/25,Tuesday,9:00:00 a.m.,3:30:00 p.m.,6.5,Belmont,$150
+Jhony,10/14/25,Tuesday,9:00:00 a.m.,3:30:00 p.m.,6.5,Belmont,$170
+Ernesto,10/14/25,Tuesday,9:00:00 a.m.,3:30:00 p.m.,6.5,Belmont,$200
+Osniel,10/14/25,Tuesday,9:00:00 a.m.,3:30:00 p.m.,6.5,Belmont,$150
+Jhony,10/15/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/15/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/15/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/16/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/16/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/16/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/17/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/17/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/17/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/20/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/20/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/20/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/21/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/21/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/21/25,Tuesday,9:00:00 a.m.,3:00:00 p.m.,6,Water test,$150
+Jhony,10/22/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/22/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Jhony,10/23/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/23/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/23/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/24/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$180
+Ismael,10/24/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/24/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Ismael,10/27/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/27/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/27/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Water test,$170
+Vicente,10/27/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Water test,$150
+Osniel,10/27/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Water test,$150
+Ernesto,10/27/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$200
+Ismael,10/28/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$200
+Pedro,10/28/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$170
+Jhony,10/28/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$170
+Vicente,10/28/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$150
+Osniel,10/28/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$150
+Ernesto,10/28/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$200
+Ismael,10/29/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota,$190
+Pedro,10/29/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota,$170
+Jhony,10/29/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Water test,$170
+Vicente,10/29/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Water test,$150
+Edwin,10/29/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Water test,$150
+Osniel,10/29/25,Wenesday,9:00:00 a.m.,3:00:00 p.m.,6,Servicio Carlos Paesano,$150
+Ernesto,10/29/25,Wenesday,9:00:00 a.m.,3:00:00 p.m.,6,Servicio Carlos Paesano,$200
+Ismael,10/30/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota,$190
+Pedro,10/30/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota,$170
+Jhony,10/30/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Servicio Miami Beach,$170
+Vicente,10/30/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Servicio Miami Beach,$150
+Edwin,10/30/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Servicio Miami Beach,$150
+Ernesto,10/30/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Servicio Miami Beach,$200
+Vicente,10/31/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Casa Mudanza,$150
+Jhony,10/31/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Service,$170
+Edwin,10/31/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Service,$150
+Ismael,10/31/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota,$190
+Pedro,10/31/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota,$170
+Ernesto,10/31/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$200
+Osniel,10/31/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$150
+Ernesto,11/3/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Osniel,11/3/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Pedro,11/3/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Ismael,11/3/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Vicente,11/3/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Jhony,11/3/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Edwin,11/3/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Casa Mudanza,$150
+Ernesto,11/4/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Osniel,11/4/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Pedro,11/4/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Ismael,11/4/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Vicente,11/4/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Jhony,11/4/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Edwin,11/4/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Casa Mudanza,$150
+Sergio,11/4/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Naples,$160
+Ernesto,11/5/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$200
+Osniel,11/5/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$150
+Jhony,11/5/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$170
+Sergio,11/5/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Belmont,$160
+Ismael,11/5/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Servicio Carlos Paesano,$170
+Pedro,11/5/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Servicio Carlos Paesano,$150
+Vicente,11/5/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Servicio Carlos Paesano,$150
+Ernesto,11/6/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,The Fifth,$200
+Osniel,11/6/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,The Fifth,$150
+Jhony,11/6/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,The Fifth,$170
+Vicente,11/7/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Reglazing,$150
+Ismael,11/7/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Reglazing,$170
+Pedro,11/7/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Reglazing,$150
+Jhony,11/7/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Reglazing,$170
+Osniel,11/11/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Jhony,11/11/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Edwin,11/11/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Vicente,11/11/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Pedro,11/11/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Ernesto,11/12/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,411 Michigan Miami Beach,$200
+Osniel,11/12/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,411 Michigan Miami Beach,$150
+Jhony,11/12/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,411 Michigan Miami Beach,$170
+Edwin,11/12/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,411 Michigan Miami Beach,$150
+Jhony,11/13/25,Thursday,9:00:00 a.m.,12:00:00 p.m.,3,Belmont,$100
+Osniel,11/14/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Aventura,$150
+Jhony,11/14/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Aventura,$170
+Edwin,11/14/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Aventura,$150
+Pedro,11/17/25,Monday,7:00:00 a.m.,3:00:00 p.m.,8,Naples,$170
+Ismael,11/17/25,Monday,7:00:00 a.m.,3:00:00 p.m.,8,Naples,$200
+Jhony,11/17/25,Monday,7:00:00 a.m.,3:00:00 p.m.,8,Naples,$170
+Ernesto,11/17/25,Monday,9:00:00 a.m.,1:00:00 p.m.,4,Water test,$200
+Osniel,11/17/25,Monday,9:00:00 a.m.,1:00:00 p.m.,4,Water test,$150
+Edwin,11/17/25,Monday,9:00:00 a.m.,1:00:00 p.m.,4,Water test,$150
+Pedro,11/18/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Ismael,11/18/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Osniel,11/18/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Jhony,11/18/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Edwin,11/18/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Sarasota extra,$20
+Pedro,11/21/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples,$170
+Ismael,11/21/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples,$200
+Jhony,11/21/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples,$170
+Ismael,11/24/25,Monday,9:00:00 a.m.,1:00:00 p.m.,4,Miami,$170
+Pedro,12/1/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Ismael,12/1/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Jhony,12/1/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Ismael,12/2/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Pedro,12/2/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Jhony,12/2/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Ernesto,12/2/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$200
+Osniel,12/2/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Ismael,12/3/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Pedro,12/3/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Jhony,12/3/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Ernesto,12/3/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$200
+Osniel,12/3/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Ismael,12/4/25,Thursday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Pedro,12/4/25,Thursday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Jhony,12/4/25,Thursday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Ernesto,12/4/25,Thursday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Osniel,12/4/25,Thursday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Ismael,12/5/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Pedro,12/5/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Jhony,12/5/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Ernesto,12/5/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Osniel,12/5/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Pedro,12/8/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Ismael,12/8/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Osniel,12/8/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Jhony,12/8/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Carlos,12/8/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Ernesto,12/9/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$200
+Jhony,12/9/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Osniel,12/9/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Carlos,12/9/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Ernesto,12/10/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$200
+Osniel,12/10/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Carlos,12/10/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Jhony,12/10/25,Wenesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Ernesto,12/11/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$200
+Osniel,12/11/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Carlos,12/11/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Jhony,12/11/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Pedro,12/11/25,Thursday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Ernesto,12/12/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Osniel,12/12/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Jhony,12/12/25,Friday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Carlos,12/12/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Pedro,12/12/25,Friday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Pedro,12/15/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Ismael,12/15/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Jhony,12/15/25,Monday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Pedro,12/16/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$150
+Jhony,12/16/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Ismael,12/16/25,Tuesday,8:00:00 a.m.,3:00:00 p.m.,7,Miami,$170
+Jhony,12/17/25,Wenesday,7:00:00 a.m.,3:00:00 p.m.,8,Tampa Extra,$20
+Ernesto,12/22/25,Monday,7:00:00 a.m.,3:00:00 p.m.,8,Sarasota extra,$20
+Jhony,12/22/25,Monday,7:00:00 a.m.,3:00:00 p.m.,8,Sarasota extra,$20
+Ismael,12/29/25,Monday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Pedro,12/29/25,Monday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Jhony,12/29/25,Monday,7:00:00 a.m.,3:00:00 p.m.,8,Naples extra,$20
+Ismael,12/30/25,Tuesday,9:00:00 a.m.,1:00:00 p.m.,4,Miami,$170
+Pedro,12/30/25,Tuesday,9:00:00 a.m.,1:00:00 p.m.,4,Miami,$150
+Jhony,12/30/25,Tuesday,9:00:00 a.m.,1:00:00 p.m.,4,Miami,$170
